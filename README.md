@@ -1,0 +1,1 @@
+# MariaDB-HASS-Add-On
