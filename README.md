@@ -100,7 +100,7 @@ Sau khi truy cập `http://172.21.197.127:8123` -> Tiến hành tạo tài kho�
 
 <img width="1920" height="1025" alt="{DB397D09-CA3F-4E37-9097-C7E50BF31B97}" src="https://github.com/user-attachments/assets/7cd9a700-597c-4464-a056-f9c4670fdaf8" /></p>
 
-2. Tiến hành Demo
+2. Tiến hành Demo 
 
 
 
