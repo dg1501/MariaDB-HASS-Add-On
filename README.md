@@ -82,6 +82,25 @@
 
 <img width="901" height="682" alt="{FE35F921-CC43-4FA3-91DB-2A8B9E15515D}" src="https://github.com/user-attachments/assets/79793c1b-768a-434c-8e17-c99ecc9e572b" /></p>
 
+---
+
+### PHẦN 4: TẠO DEMO
+
+1. Tạo tài khoản người dùng
+
+Sau khi truy cập `http://172.21.197.127:8123` -> Tiến hành tạo tài khoản người dùng
+
+<img width="1866" height="964" alt="{BBE00F68-BD23-4BBB-B498-6A85BE7EC152}" src="https://github.com/user-attachments/assets/229f48ff-22bd-47eb-b712-85cc05ad8a2f" /></p>
+
+👉 **Khởi tạo Database: Docker sẽ ghi dữ liệu người dùng của bạn vào MariaDB (hoặc SQLite mặc định) để làm cơ sở xác thực cho mọi phiên đăng nhập sau này.**
+
+👉 **Thiết lập môi trường gốc: Hệ thống sẽ tạo ra cấu hình cá nhân hóa ban đầu, cho phép bạn bắt đầu quét (scan) các thiết bị thông minh trong mạng nội bộ.**
+
+👉 **Bảo mật: Đây là lớp rào chắn đầu tiên bảo vệ Dashboard điều khiển nhà bạn khỏi các truy cập trái phép từ bên ngoài.**
+
+<img width="1920" height="1025" alt="{DB397D09-CA3F-4E37-9097-C7E50BF31B97}" src="https://github.com/user-attachments/assets/7cd9a700-597c-4464-a056-f9c4670fdaf8" /></p>
+
+2. Tiến hành Demo
 
 
 
