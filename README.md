@@ -68,6 +68,22 @@
 
 <img width="1919" height="1022" alt="{943AE448-D52E-4832-9FA2-22D1CC49B56A}" src="https://github.com/user-attachments/assets/675393be-3e07-4c07-b407-0791382553f1" /></p>
 
+---
+
+### PHẦN 3: KẾT NỐI MARIADB
+
+1. Mở file `nano config/configuration.yaml`
+
+<img width="892" height="668" alt="{AA0A94D1-E696-42D7-B578-41691FB9588A}" src="https://github.com/user-attachments/assets/0e2b9944-6314-4e7e-8b81-bc513e99b448" /></p>
+
+2. Restart
+
+`docker restart hass`
+
+<img width="901" height="682" alt="{FE35F921-CC43-4FA3-91DB-2A8B9E15515D}" src="https://github.com/user-attachments/assets/79793c1b-768a-434c-8e17-c99ecc9e572b" /></p>
+
+
+
 
 
 
