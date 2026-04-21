@@ -52,11 +52,23 @@
 
 👉 Phải có:
 
-hass
+*hass*
 
-hass-mariadb
+*hass-mariadb*
 
-hass-nodered
+*hass-nodered*
+
+5. Truy cập Local
+
+👉 Mở Hass `http://IP:8123`
+
+<img width="1920" height="1029" alt="{38F4FC02-C9A3-47DD-B47F-7F91A31154EE}" src="https://github.com/user-attachments/assets/aa98e4d7-404c-4a7b-904e-9a31980706a6" /></p>
+
+👉 Mở Nodered `http://IP:1881`
+
+<img width="1919" height="1022" alt="{943AE448-D52E-4832-9FA2-22D1CC49B56A}" src="https://github.com/user-attachments/assets/675393be-3e07-4c07-b407-0791382553f1" /></p>
+
+
 
 
 
